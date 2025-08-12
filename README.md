@@ -50,7 +50,7 @@ My learning is goal-driven, project-based, and often tracked with heatmaps or Te
 
 ## ❤️ Rhythm Game Corner
 
-![BanG Dream! Gameplay](https://github.com/user-attachments/assets/5eab5d1b-cac8-4b24-a1ef-d08c367284d6)
+![BanG Dream! Gameplay](https://github.com/user-attachments/assets/a141ed80-4aed-4c9f-8f9b-beceb19742dc)
 _"Maintaining uptime and hitting full combo both require timing and focus."_ – Quby
 
 ---
